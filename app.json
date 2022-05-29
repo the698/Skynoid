@@ -9,8 +9,9 @@
     "userbot",
     "productivity"
   ],
-  "repository": "https://github.com/TeamEviral/Skynoid",
-  "website": "https://codetech.org/",
+  "repository": "https://github.com/the698/Skynoid",
+  "website": "https://codetech.org/"
+
   "success_url": "t.me/Skynoidbot",
   "stack": "container",
   "env": {
